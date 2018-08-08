@@ -1,0 +1,12 @@
+{
+  "id": "unlimitedBookshelvesPatcher",
+  "name": "Unlimited Bookshelves Patcher",
+  "author": "Mator",
+  "version": "1.0.0",
+  "released": "8/7/2018",
+  "updated": "8/7/2018",
+  "description": "Patches plugins to work with unlimited bookshelves.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
