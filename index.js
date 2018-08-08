@@ -46,7 +46,7 @@ registerPatcher({
         hide: true,
         label: 'Unlimited Bookshelves Patcher',
         defaultSettings: {
-            ignoredPlugins: [
+            ignoredFiles: [
                 'Skyrim.esm', 'Update.esm', 'Dawnguard.esm',
                 'HearthFires.esm', 'Dragonborn.esm'
             ]
